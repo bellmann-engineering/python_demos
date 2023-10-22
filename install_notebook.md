@@ -12,6 +12,7 @@ Use `pip` to install Jupyter Notebook. Run the following command in the Command 
 
 ```shell
 pip install jupyter
+```
 
 ## Step 3: Start Jupyter Notebook
 
@@ -19,6 +20,7 @@ After installation, you can start Jupyter Notebook by typing the following comma
 
 ```shell
 jupyter notebook
+```
 
 This will start the Jupyter Notebook server and open a new tab in your web browser with the Jupyter Notebook interface.
 
