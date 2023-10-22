@@ -1,6 +1,6 @@
 # Installing Jupyter Notebook on Windows
 
-In this tutorial, we'll guide you through the process of installing Jupyter Notebook on a Windows system where Python is already installed.
+This shows the process of installing Jupyter Notebook on a Windows system where Python is already installed.
 
 ## Step 1: Open a Command Prompt or PowerShell
 
