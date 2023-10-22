@@ -26,4 +26,5 @@ This will start the Jupyter Notebook server and open a new tab in your web brows
 
 ## Step 4: Create a New Notebook
 
-In the Jupyter Notebook interface, you can create a new Python notebook by clicking on the "New" button and selecting "Python 3" or any other available kernel.
+In the Jupyter Notebook interface, you can create a new Python notebook by clicking on the "New" button and selecting "Python 3".
+Now you're ready to go.
