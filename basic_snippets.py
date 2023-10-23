@@ -64,6 +64,12 @@ sorted_list = sorted(my_list)  # sorted_list is [1, 2, 3, 4, 5]
 # Sorting in reverse order
 my_list.sort(reverse=True)  # my_list is now [5, 4, 3, 2, 1]
 
+def search(n: int, numbers: list):
+    if n in numbers:
+        return numbers.index(n)
+    else:
+        print("not found")
+
 # Tuples are immutable ordered collections in Python that can hold a sequence of elements of different data types.
 # Stock information as a tuple
 stock = ("AAPL", "Apple Inc.", 150.0)
